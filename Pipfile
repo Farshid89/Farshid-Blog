@@ -11,6 +11,7 @@ flask-login = "*"
 flask-gravatar = "*"
 flask-sqlalchemy = "*"
 flask-wtf = "*"
+gunicorn = "20.1.0"
 
 [dev-packages]
 
